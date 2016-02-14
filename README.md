@@ -1,4 +1,4 @@
-# NewCaloriesCounter
+# New Calories Counter
 Calories counter application with simple interface and necessary functionality. When start app first time please specify your physical characteristics and you will get your daily calories needs calculated by using Mifflin - St Jeor formula:
 
 Basal Metabolic Rate = 10 * weight(kg) + 6.25 * height(cm) - 5 * age(y) + 5         (man)
