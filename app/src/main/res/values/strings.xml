@@ -1,0 +1,139 @@
+<!--
+  ~     Copyright (C) 2016  Alexander Samtsov
+  ~
+  ~     This file is part of New Calories Counter.
+  ~
+  ~     New Calories Counter is free software: you can redistribute it and/or modify
+  ~     it under the terms of the GNU General Public License as published by
+  ~     the Free Software Foundation, either version 3 of the License, or
+  ~     (at your option) any later version.
+  ~
+  ~     New Calories Counter is distributed in the hope that it will be useful,
+  ~     but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~     GNU General Public License for more details.
+  ~
+  ~     You should have received a copy of the GNU General Public License
+  ~     along with New Calories Counter.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="app_name">New Calories Counter</string>
+ <string name="some_text">
+     Choose product!
+ </string>
+ <string name="some_hint">
+  Type here&#8230;
+ </string>
+    <string name="product_name">%1$s</string>
+    <string name="activity_name">%1$s</string>
+
+
+    <string name="product_info">Calories: %1$s\nProteins: %2$s\nFats: %3$s\nCarbohydrates: %4$s</string>
+    <string name="activity_info">Time: %1$s minutes\nCalories burned: %2$s</string>
+
+
+    <string name="product_day_total">Calories:%1$s\nProteins:%2$s\nFats:%3$s\nCarbohydrates:%4$s</string>
+
+    <string name="goal">goal: %1$s without activities</string>
+    <string name="exceeded">Stop eating! Daily intake is exceeded by %1$s</string>
+    <string name="you_can_eat_today">Your limit is %1$s calories</string>
+
+    <string name="eatmore">You can eat some more!</string>
+    <string name="add_phisical_activity">add activity</string>
+    <string name="settings_button">settings</string>
+    <string name="calories_proteins_fats_carbohydrates">calories:proteins:fats:carbohydrates</string>
+    <string name="add_product">add product</string>
+    <string name="addnewproductactivity_product_name">product name:</string>
+    <string name="addnewproductactivity_calories">calories:</string>
+    <string name="addnewproductactivity_proteins">proteins:</string>
+    <string name="addnewproductactivity_fats">fats:</string>
+    <string name="addnewproductactivity_carbohydrates">carbohydrates:</string>
+    <string name="addnewproductactivity_add_button">add</string>
+    <string name="chooseproductactivity_add_button">Add product to base</string>
+    <string name="productinfoactivity_product_name">Product name</string>
+    <string name="productinfoactivity_product_desc">Calories, proteins, fats, carbohydrates</string>
+    <string name="productinfoactivity_choose_amount">Choose amount in gram:</string>
+    <string name="productinfoactivity_add_button">add</string>
+    <string name="productinfoactivity_remove_button">remove from database</string>
+    <string name="settingsactivity_sex">sex:</string>
+    <string name="settingsactivity_male">male</string>
+    <string name="settingsactivity_female">female</string>
+    <string name="settingsactivity_age">age:</string>
+    <string name="settingsactivity_initial_weight">initial weight:</string>
+    <string name="settingsactivity_height">height:</string>
+    <string name="settingsactivity_target_weight">target weight:</string>
+    <string name="settingsactivity_current_weight">current weight:</string>
+    <string name="settingsactivity_daily_calories_needs">daily calories needs:</string>
+    <string name="settingsactivity_normalwloss_rbutton">normal weight loss</string>
+    <string name="settingsactivity_fastwloss_rbutton">fast weight loss</string>
+    <string name="settingsactivity_needsforwloss">needs for weight loss:</string>
+    <string name="settingsactivity_update_button">update</string>
+    <string name="day_list_grams">&#160;grams</string>
+    <string name="day_list_razd">:</string>
+    <string name="choosephisicalactivity_add_button">add activity</string>
+    <string name="choose_activity_label">Choose activity</string>
+    <string name="phisinfo_activityname">phisinfo_activityname</string>
+    <string name="phisinfo_choose_time_label">choose time</string>
+    <string name="addnewphisical_activity_name">Activity:</string>
+    <string name="addnewphisical_burnedinour_label">burnes in hour:</string>
+    <string name="addnewphisical_add_button">add</string>
+    <string name="main_phisicalactivity_label">phisical activities:&#160;</string>
+    <string name="day_activitylist_burned_label">burned&#160;</string>
+    <string name="day_activitylist_activity_label">&#160;calories</string>
+    <string name="day_activitylist_in_label">&#160;in&#160;</string>
+    <string name="main_daytotal_burned_label">&#160;burned</string>
+    <string name="day_activitylist_minutes_label">&#160;minutes</string>
+    <string name="settings_info_button">info</string>
+
+
+    <string name="settings_license_text">Copyright &#169; 2016  Alexander Samtsov\n\nNew Calories Counter is licensed under the GNU General Public License version 3 (GNU GPLv3) or later. You can see it here: </string>
+    <string name="settings_gnulink">http://www.gnu.org/licenses/</string>
+    <string name="settings_github_text">Source code can be found here: </string>
+    <string name="settings_github_link">https://github.com/a7ex12/newcaloriescounter</string>
+
+
+    <string name="information_about_button">About</string>
+    <string name="information_updates_log">changelog</string>
+    <string name="information_result_label">cals:prots:fats:carbs:burned:result</string>
+    <string name="information_stats_label">See your stats:</string>
+    <string name="information_rate_this_app">rate this app</string>
+    <string name="changelog_1.0.1">version 1.0.1\nupdated about information (link to source code added)</string>
+
+
+    <string-array name="grams">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+        <item>1100</item>
+        <item>1200</item>
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+        <item>1900</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>75</item>
+        <item>90</item>
+        <item>105</item>
+        <item>120</item>
+    </string-array>
+
+
+</resources>
