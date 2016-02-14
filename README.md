@@ -7,6 +7,8 @@ Basal Metabolic Rate = 10 * weight(kg) + 6.25 * height(cm) - 5 * age(y) - 161   
 If you choose normal weight loss option your daily needs for weight loss will be equal Basal Metabolic Rate minus 20%, 
 If you choose fast weight loss option then your daily needs for weight loss will be equal Basal Metabolic Rate minus 40%.
 
+You can find it on google play here https://play.google.com/store/apps/details?id=com.alexandersamtsov.newcaloriescounter
+
 # Features:
  - using Mifflin - St Jeor formula to calculate your daily needs and needs for weight loss
  - choose product from the base, choose amount in gramm and you will get your product characteristics accordingly, click to add product to your day products list
