@@ -53,7 +53,7 @@
     <string name="chooseproductactivity_add_button">Add product to base</string>
     <string name="productinfoactivity_product_name">Product name</string>
     <string name="productinfoactivity_product_desc">Calories, proteins, fats, carbohydrates</string>
-    <string name="productinfoactivity_choose_amount">Choose amount in gram:</string>
+    <string name="productinfoactivity_choose_amount">Amount in grams:</string>
     <string name="productinfoactivity_add_button">add</string>
     <string name="productinfoactivity_remove_button">remove from database</string>
     <string name="settingsactivity_sex">sex:</string>
@@ -98,7 +98,7 @@
     <string name="information_result_label">cals:prots:fats:carbs:burned:result</string>
     <string name="information_stats_label">See your stats:</string>
     <string name="information_rate_this_app">rate this app</string>
-    <string name="changelog_1.0.1">version 1.0.1\nupdated about information (link to source code added)</string>
+    <string name="changelog">version 1.0.2\nFIX spinner not displaying items on some android 6.0 devices\nversion 1.0.1\nupdated about information (link to source code added)</string>
 
 
     <string-array name="grams">
